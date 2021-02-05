@@ -1,5 +1,5 @@
 # JS-Stopwatch
-A Stopwatch web-application with start, stop, lap & reset functionalities.
+A mobile friendly Stopwatch web-application along with start, stop, lap & reset functionalities.
 
 ## Table of contents
 * [Link](#link)
@@ -24,6 +24,7 @@ Run the index.html file & you're set to go.
 * Stop
 * Lap - to record consecutive timings
 * Reset
+* Responsive - Mobile & Desktop friendly
 
 ## Status
 Project is:  _finished_
