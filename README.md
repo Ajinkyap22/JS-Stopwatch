@@ -7,6 +7,7 @@ A mobile friendly Stopwatch web-application along with start, stop, lap & reset 
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
+* [Contact](#contact)
 
 ## Link
 [JS Stopwatch](https://ajinkyap22.github.io/JS-Stopwatch/)
@@ -28,3 +29,6 @@ Run the index.html file & you're set to go.
 
 ## Status
 Project is:  _finished_
+
+## Contact
+feel free to contact me at my mail - palaskarajinkya22@gmail.com
