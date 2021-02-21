@@ -2,14 +2,14 @@
 A mobile friendly Stopwatch web-application along with start, stop, lap & reset functionalities.
 
 ## Table of contents
-* [Link](#link)
+* [Preview Link](#preview-link)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
-## Link
+## Preview Link
 [JS Stopwatch](https://ajinkyap22.github.io/JS-Stopwatch/)
 
 ## Technologies
